@@ -10,8 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>dm_public</module>
-        <module>background</module>
-        <module>front</module>
+        <module>dm_front</module>
+        <module>dm_backend</module>
     </modules>
 
     <properties>
